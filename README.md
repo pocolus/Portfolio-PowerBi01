@@ -2,7 +2,7 @@
 
 **•	TITULO: AUTOMOBILE Sales Data.**
 
-![DIAGRAMA] (https://github.com/pocolus/Portfolio-PowerBi01/blob/main/Diagrama-Entidad-Relacion.png)
+![DIAGRAMA](https://github.com/pocolus/Portfolio-PowerBi01/blob/main/Diagrama-Entidad-Relacion.png)
 
 **•	DESCRIPCION DEL PROYECTO:** En este estudio se puede ver las ventas generadas por la compañía de Autos y motocicletas a nivel mundial. Se pueden evidenciar la fecha de la venta, así como el nombre de los compradores, cantidad de artículos y valor de la misma venta. Todo esto para poder mejorar la productividad de la empresa y poder mejorar la calidad del servicio y ventas para todos los clientes.
 
